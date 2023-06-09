@@ -46,7 +46,7 @@ Usando o tes e dando tudo certo inclusive uma versão recente do Firefox, agora 
 
 Usando Firefox baixe o arquivo e faça os testes: https://github.com/alvaciroliveira/rifa/blob/main/testefirefox.py
 
-- - - Lembrando dentro do arquivo possuem nome e números somente como referência caso queira, sabendo o que vai fazer pode ser auterados.
+- - - Lembrando dentro do arquivo possuem nome e números somente como referência caso queira, sabendo o que vai fazer pode ser alterados.
 
 # Usando a Versão Final
 
