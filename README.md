@@ -30,7 +30,7 @@ Primeiro antes de começar tudo certifique-se que consta em seu computador insta
 
 ![image](https://github.com/alvaciroliveira/rifa/assets/129803614/5b45b320-445e-4afd-baae-d2326a558c1c)
 
-- - - Prontos então vamos lá . . .
+ - Prontos então vamos lá . . .
 
 Abra o VS Code, vá até o terminal conforme imagem abaixo e instale as seguintes ferramentas:
 ![image](https://github.com/alvaciroliveira/rifa/assets/129803614/f79803a7-3b57-4157-b4ab-c2566a689513)
@@ -44,11 +44,11 @@ Instalando TKinter dentro do VS Code no Windows, vá até em externsões conform
 
 Tudo pronto após colocar todas as referências não se esqueça de efetuar a instalação do GeckoDriver (*.exe) em local fácil em sua maquina, seguindo os passos de colocar o PATH do GeckoDrive nas váriaveis de ambiente do Windows.
 
-Usando o tes e dando tudo certo inclusive uma versão recente do Firefox, agora pode executar o teste:
+Usando o primeiro a sersão teste (*.py) e dando tudo certo inclusive uma versão recente do Firefox, agora pode executar o teste:
 
-Usando Firefox baixe o arquivo e faça os testes: https://github.com/alvaciroliveira/rifa/blob/main/testefirefox.py
+Usando o navegador do Firefox, baixe o arquivo e faça os testes: https://github.com/alvaciroliveira/rifa/blob/main/testefirefox.py
 
-- - - Lembrando dentro do arquivo possuem nome e números somente como referência caso queira, sabendo o que vai fazer pode ser alterados.
+ - Lembrando dentro do arquivo possuem nome e números somente como referência caso queira, sabendo o que vai fazer pode ser alterados.
 
 # Usando a Versão Final
 
