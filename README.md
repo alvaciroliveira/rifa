@@ -44,7 +44,7 @@ Instalando TKinter dentro do VS Code no Windows, vá até em externsões conform
 
 Tudo pronto após colocar todas as referências não se esqueça de efetuar a instalação do GeckoDriver (*.exe) em local fácil em sua maquina, seguindo os passos de colocar o PATH do GeckoDrive nas váriaveis de ambiente do Windows.
 
-Usando o primeiro a sersão teste (*.py) e dando tudo certo inclusive uma versão recente do Firefox, agora pode executar o teste:
+Usando primeiro a versão de teste (testefirefox.py) e dando tudo certo, usando a versão recente do Firefox, agora pode executar o teste:
 
 Usando o navegador do Firefox, baixe o arquivo e faça os testes: https://github.com/alvaciroliveira/rifa/blob/main/testefirefox.py
 
