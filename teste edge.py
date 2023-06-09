@@ -4,39 +4,22 @@ from selenium.webdriver.common.by import By
 from selenium.webdriver.support.ui import WebDriverWait
 from selenium.webdriver.support import expected_conditions as EC
 
-driver_path = 'C:/Users/Usuario/Downloads/edgedriver_win32'
+driver_path = '~/edgedriver_win32'
 options = webdriver.EdgeOptions()
 driver = webdriver.Edge(executable_path=driver_path, options=options)
-driver.get("https://meykillo.blogspot.com") # Substitua pela URL correta da página onde você deseja colar os valores
-
-
-
+driver.get("https://meykillo.blogspot.com")
 
 # Lista de nomes e números
-nomes = [
-    "ome" ,
-         "mon" ,
-         "mone",
-         "showeee",
-         "turbina",
-         "fsdjkhfks"
-    ]
+nomes = ["nome-1", "nome-2", "nom-3", "nome-4", "nome-5", "nome6"]
 
-numeros = ["1	",
-"2	",
-"3	",
-"4	",
-"5	",
-"6	",
+numeros = ["1", "2", "3", "4", "5", "6"]
 
-    ]
 
-# Copia as informações e transcreve na ordem de 1 a 1000
+# Copia as informações e transcreve na ordem
 for i in range(1, 1001):
     nome = nomes[i-1]
     numero = numeros[i-1]
-    # Insira aqui o código para transcrever as informações onde desejar
-    # Insira aqui o código para transcrever as informações onde desejar
+
     pyautogui.click(x=100, y=200)
     pyautogui.press('tab')
     pyautogui.press('delete')
