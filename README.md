@@ -10,9 +10,11 @@ Será preciso instalar algumas ferramentas e extensões para que rode o código 
 
 Selenium WebDriver usei várias referências diferentes:
 
-1 - API do WebDriver: https://selenium-python.readthedocs.io/api.html
-2 - Selenium IDE e Grid: https://www.selenium.dev/documentation/webdriver/browsers/
-3 - Gerenciamento do WebDriver via Python: https://pypi.org/project/webdriver-manager/
+- 1 API do WebDriver: https://selenium-python.readthedocs.io/api.html
+
+- 2 Selenium IDE e Grid: https://www.selenium.dev/documentation/webdriver/browsers/
+
+- 3 Gerenciamento do WebDriver via Python: https://pypi.org/project/webdriver-manager/
 
 PyAutoGui: https://pypi.org/project/PyAutoGUI/
 
