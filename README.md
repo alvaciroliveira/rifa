@@ -39,7 +39,7 @@ Abra o VS Code, vá até o terminal conforme imagem abaixo e instale as seguinte
 pip3 install openpyxl pyaautogui selenium
 ```
 
-Instalando TKinter dentro do VS Code no Windows, vá até em externsões conforme imagem abaixo e instale o TKinter:
+Instalando TKinter dentro do VS Code no Windows, vá até a aba extensões conforme imagem abaixo e instale o TKinter:
 ![image](https://github.com/alvaciroliveira/rifa/assets/129803614/28222746-8933-46ec-95df-2dcbcb6acdc5)
 
 Tudo pronto após colocar todas as referências não se esqueça de efetuar a instalação do GeckoDriver (*.exe) em local fácil em sua maquina, seguindo os passos de colocar o PATH do GeckoDrive nas váriaveis de ambiente do Windows.
