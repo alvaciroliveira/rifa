@@ -13,8 +13,7 @@ driver.get("https://meykillo.blogspot.com")
 pyautogui.click(x=100, y=200)
 
 # Lista de nomes e números
-nomes = [
-    "nome-1", "nome-2", "nom-3", "nome-4", "nome-5", "nome6"]
+nomes = ["nome-1", "nome-2", "nom-3", "nome-4", "nome-5", "nome-6"]
 
 numeros = ["1", "2", "3", "4", "5", "6"]
 
@@ -23,7 +22,6 @@ for i in range(1, 1001):
     nome = nomes[i-1]
     numero = numeros[i-1]
     
-    # Insira aqui o código para transcrever as informações onde desejar
     pyautogui.click(x=100, y=200)
     pyautogui.press('tab')
     pyautogui.press('delete')
@@ -42,7 +40,3 @@ for i in range(1, 1001):
     pyautogui.click(x=319, y=465)
 
 pyautogui.click(x=319, y=465)
-
-
-# Fechar o navegador
-#driver.quit()
