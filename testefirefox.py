@@ -4,7 +4,7 @@ from selenium.webdriver.firefox.options import Options
 from selenium.webdriver.common.by import By
 from selenium.webdriver.common.keys import Keys
 
-driver_path = 'C:/Users/Usuario/Downloads/geckodriver-v0.33.0-win32'
+driver_path = '~/geckodriver-v0.33.0-win32'
 options = Options()
 options = webdriver.FirefoxOptions()
 driver = webdriver.Firefox(executable_path=driver_path, options=options)
@@ -14,24 +14,11 @@ pyautogui.click(x=100, y=200)
 
 # Lista de nomes e números
 nomes = [
-    "ome" ,
-         "mon" ,
-         "mone",
-         "showeee",
-         "turbina",
-         "fsdjkhfks"
-    ]
+    "nome-1", "nome-2", "nom-3", "nome-4", "nome-5", "nome6"]
 
-numeros = ["1	",
-"2	",
-"3	",
-"4	",
-"5	",
-"6	",
+numeros = ["1", "2", "3", "4", "5", "6"]
 
-    ]
-
-# Copia as informações e transcreve na ordem de 1 a 1000
+# Copia as informações e transcreve na ordem
 for i in range(1, 1001):
     nome = nomes[i-1]
     numero = numeros[i-1]
@@ -55,8 +42,7 @@ for i in range(1, 1001):
     pyautogui.click(x=319, y=465)
 
 pyautogui.click(x=319, y=465)
-# Fechar o arquivo da planilha
-#workbook.close()
+
 
 # Fechar o navegador
 #driver.quit()
