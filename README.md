@@ -1,12 +1,12 @@
 # Projeto para Sorteio
 
-O projeto é baseado para que através de uma planilha em Excel as informação como número e nome na lista já preenchida, transcreve as informação da planilha para o navegador de forma automatizada usando Python 3.11 (funcionando somente no VS Code do Windows), inserindo e alocando as informação que ficam na pasta TEMP do próprio computador e não no navegador, esta interação não pesa sua internet e facilita que outros usuários possam usar simultâneamente em varios locais e sem a interferÊncia externas.
+O projeto é baseado para que através de uma planilha em Excel as informação como número e nome na lista já preenchida, transcreve as informação da planilha para o navegador de forma automatizada usando Python 3.11 (funcionando somente no VS Code do Windows), inserindo e alocando as informação que ficam na pasta TEMP do próprio computador e não no navegador, esta interação não pesa sua internet e facilita que outros usuários possam usar simultaneamente em vários locais e sem a interferência externas.
 
-Porjeto ainda não foi aplicado para linux, no momento estou desenvolvendo um código, tendo em vista que no momento a ferramento PYAUTOGUI que usa a extensão TKinter não se aplica a versão VS Code do linux.
+Projeto ainda não foi aplicado para linux, no momento estou desenvolvendo um código, tendo em vista que no momento a ferramenta PYAUTOGUI que usa a extensão TKinter não se aplica a versão VS Code do linux.
 
 # Ferramentas Adicionais para que funcione:
 
-Será preciso instalar algumas ferramentas e extensões para que rode o código com precisão, segue abaixo aalgumas delas inclusives estão disponíveis em projetos da comunidade aqui no GitHub:
+Será preciso instalar algumas ferramentas e extensões para que rode o código com precisão, segue abaixo algumas delas inclusive estão disponíveis em projetos da comunidade aqui no GitHub:
 
 Selenium WebDriver usei várias referências diferentes:
 
@@ -52,7 +52,7 @@ Usando o navegador do Firefox, baixe o arquivo e faça os testes: https://github
 
 # Usando a Versão Final
 
-Certifique que a sua planilha do Excel já esta em local correto e que já efetuou as alterações de onde a mesma estão localizadas efetue o VS Code e na dúvida estou a disposicão.
+Certifique que a sua planilha do Excel já esta em local correto e que já efetuou as alterações de onde a mesma estão localizadas efetue o VS Code e na dúvida estou a disposição.
 
 Sorteio: https://github.com/alvaciroliveira/rifa/blob/main/firefox.py
 
