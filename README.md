@@ -36,7 +36,7 @@ Abra o VS Code, vá até o terminal conforme imagem abaixo e instale as seguinte
 ![image](https://github.com/alvaciroliveira/rifa/assets/129803614/f79803a7-3b57-4157-b4ab-c2566a689513)
 
 ```bash
-pip3 install openpyxl pyaautogui selenium
+pip3 install openpyxl pyautogui selenium
 ```
 
 Instalando TKinter dentro do VS Code no Windows, vá até a aba extensões conforme imagem abaixo e instale o TKinter:
